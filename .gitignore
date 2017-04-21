@@ -1,0 +1,6 @@
+*.back
+*~
+*.png
+*.jpg
+*.bmp
+output/
